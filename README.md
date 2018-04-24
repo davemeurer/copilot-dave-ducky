@@ -1,5 +1,5 @@
 ## Overview ##
-CoPilot Dave Ducky Hub demo is a fictitious application that is purposely vulnerable with GPL code.  Demo for Dave's copilot app
+CoPilot Dave Ducky Hub demo is a fictitious application that is purposely vulnerable with GPL code.  Demo for Dave's GitHub copilot app
 
 ## Build ##
 
